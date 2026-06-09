@@ -13,22 +13,29 @@
 
 ---
 
-### 🚀 What I Do
+### 🚀 What I Build
 
-- 🤖 **Agentic AI** — Multi-agent systems & orchestration where agents *plan → act → reflect* (LangGraph · deepagents).
-- 📚 **RAG & Retrieval** — Retrieval-augmented pipelines with vector search & semantic memory (pgvector · FAISS · Pinecone · embeddings).
-- 🎙️ **Real-Time Voice AI** — Low-latency speech-to-speech and conversational voice agents.
-- 💬 **Conversational Automation** — Omnichannel messaging agents across chat, email & voice.
-- 🧠 **Applied ML** — NLP, classification, recommendation, and fraud-detection systems.
+- 🤖 **Agentic AI Systems** — Multi-agent architectures that *plan → act → reflect*, autonomously decomposing and executing complex tasks (LangGraph · deepagents).
+- 📚 **RAG & Long-Term Memory** — Retrieval pipelines with vector search + semantic memory, so LLMs answer with grounded, current, hallucination-resistant context.
+- 🎙️ **Real-Time Voice AI** — Low-latency speech-to-speech agents that hold natural, interruption-aware conversations.
+- 💬 **Conversational Automation** — Omnichannel assistants across chat, email & voice that resolve real user requests end to end.
+- 🧠 **Applied ML** — Production NLP, classification, recommendation, and fraud-detection models.
 
-### 🧩 What I work on
+### 🎯 What Sets Me Apart
+
+- ⚙️ **Production over demos** — I ship systems that survive real traffic: focused on latency, cost, reliability, and evaluation — not just notebooks.
+- 🪢 **Full-stack range** — Comfortable from research → backend → deployment; I own a feature end to end.
+- ⚡ **AI-native workflow** — I build *with* AI to build AI — leveraging Claude Code, Cursor & Antigravity to ship faster without losing rigor.
+- 📈 **Outcome-driven** — Every system I build is judged by the value it delivers to real users, not the cleverness of the code.
+
+### 🧩 How I Work
 
 ```text
 Agents        →  LangChain · LangGraph · deepagents · plan-act-reflect orchestration
 RAG / Memory  →  pgvector · FAISS · Pinecone · semantic search · embeddings · retrieval pipelines
 Voice AI      →  speech-to-speech · low-latency streaming · realtime conversational agents
 Comms         →  omnichannel automation · WebSockets · event-driven messaging
-LLMs          →  Anthropic · OpenAI · Gemini · prompt engineering · structured outputs
+LLMs          →  Anthropic · OpenAI · Gemini · prompt engineering · structured outputs · evals
 Backend       →  Python · FastAPI · Django · PostgreSQL · Redis · async APIs
 ML / Data     →  NLP · classification · recommendation · fraud detection
 ```
@@ -55,6 +62,16 @@ ML / Data     →  NLP · classification · recommendation · fraud detection
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+**AI Dev Tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 **RAG · Vector · Data**
@@ -92,8 +109,8 @@ ML / Data     →  NLP · classification · recommendation · fraud detection
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veerendravikas04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veerendravikas04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://readme-stats-eight-azure.vercel.app/api?username=Veerendravikas04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://readme-stats-eight-azure.vercel.app/api/top-langs/?username=Veerendravikas04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
