@@ -124,11 +124,11 @@ The gap between a working demo and a working system — latency, cost, reliabili
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veerendravikas04&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veerendravikas04&theme=tokyonight&hide_border=true&v=20260609" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veerendravikas04&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veerendravikas04&theme=tokyo-night&hide_border=true&area=true&v=20260609" width="98%"/>
 </p>
 
 ---
