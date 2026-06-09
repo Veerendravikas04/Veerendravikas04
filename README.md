@@ -1,21 +1,24 @@
-<h1 align="center">Hi, I'm Veerendra 👋</h1>
+<h1 align="center">⚡ Mission: AI Possible</h1>
+<h3 align="center">Welcome to my lab — I'm Veerendra 🧪</h3>
 
 <p align="center">
-  <b>Co-founder @ QuantumGandivaAI</b> · Building production multi-agent AI systems
+  What happens when relentless curiosity meets clean code?<br/>
+  You get intelligent systems that <b>think, reason, and evolve.</b>
 </p>
 
 <p align="center">
-  AI Engineer focused on LLM agents, RAG, and full-stack product work.<br/>
-  I like turning research-grade ideas into things real users ship on.
+  <b>Applied AI Engineer</b> turning complex ideas into real-world solutions —<br/>
+  systems that deliver tangible value to real users.
 </p>
 
 ---
 
-### 🚀 What I'm building
+### 🚀 What I Do
 
-- **[openhuman](https://github.com/Veerendravikas04/openhuman)** — Your personal AI super-intelligence. Private, simple, extremely powerful. `Rust`
-- **[hermes-agent](https://github.com/Veerendravikas04/hermes-agent)** — An agent that grows with you. `Python`
-- **ReBuddy** *(QuantumGandivaAI)* — Multi-agent platform for UK real estate. FastAPI · LangGraph · deepagents · Redis · pgvector.
+- **AI Development** — Building applications with LLMs, RAG pipelines, and agentic workflows.
+- **Multi-Agent Systems** — Orchestration with LangChain, LangGraph & deepagents.
+- **Full-Stack Product** — Shipping production-grade tools end to end.
+- **Applied ML** — NLP, classification, recommendation, and fraud-detection systems.
 
 ### 🧠 What I work on
 
@@ -50,6 +53,18 @@ Frontend      →  Next.js · React · Flutter / Dart
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veerendravikas04&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Veerendravikas04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+</p>
+
+### 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Veerendravikas04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ### 📫 Reach me
