@@ -121,11 +121,6 @@ ML / Data     →  NLP · classification · recommendation · fraud detection
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-stats-eight-azure.vercel.app/api?username=Veerendravikas04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://readme-stats-eight-azure.vercel.app/api/top-langs/?username=Veerendravikas04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veerendravikas04&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
