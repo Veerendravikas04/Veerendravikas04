@@ -70,7 +70,7 @@ Frontend      →  Next.js · React · Flutter / Dart
 ### 📫 Reach me
 
 <p>
-  <a href="mailto:vamsi@quantumgandivaai.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vikasveerendra5410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <!-- Add your LinkedIn / X / website badges here -->
 </p>
 
