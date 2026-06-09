@@ -1,19 +1,34 @@
-<h1 align="center">⚡ Mission: AI Possible</h1>
-<h3 align="center">Welcome to my lab — I'm Veerendra 🧪</h3>
+<h1 align="center">Veerendra Rokkam</h1>
+<h3 align="center">Applied AI Engineer · Building production AI systems — from RAG pipelines to autonomous agents</h3>
 
 <p align="center">
-  What happens when relentless curiosity meets clean code?<br/>
-  You get intelligent systems that <b>think, reason, and evolve.</b>
+  I turn complex ideas into intelligent systems that <b>think, reason, and evolve</b> —<br/>
+  and survive real traffic, not just a notebook cell.
 </p>
 
 <p align="center">
-  <b>Applied AI Engineer</b> building production-grade agentic systems —<br/>
-  from retrieval and memory to real-time voice and conversational automation.
+  <a href="https://www.linkedin.com/in/veerendra-rokkam-96b920256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vikasveerendra5410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Add when ready:
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  -->
 </p>
+
+<!-- HIGHLIGHTS — give Veerendra real numbers to fill this in, e.g.:
+<p align="center"><b>X records processed · Y docs in RAG · Z concurrent users</b></p>
+-->
 
 ---
 
-### 🚀 What I Build
+## What I do
+
+I build AI systems for **production** — not toy demos or notebooks that stop at `print("Hello World")`.
+
+The problems I care about are operational: how do you keep an agent **honest** about what it's doing, how does it **recover from failure**, and how do you know when it's **quietly broken**? That lens runs through everything I build — multi-agent orchestration that *plans, acts, and reflects*; retrieval pipelines with long-term memory that keep LLMs grounded; and real-time voice agents that hold natural, interruption-aware conversations.
+
+The gap between a working demo and a working system — latency, cost, reliability, evaluation — is where most of the engineering actually lives. That's the part I optimize for.
+
+## 🚀 What I build
 
 - 🤖 **Agentic AI Systems** — Multi-agent architectures that *plan → act → reflect*, autonomously decomposing and executing complex tasks (LangGraph · deepagents).
 - 📚 **RAG & Long-Term Memory** — Retrieval pipelines with vector search + semantic memory, so LLMs answer with grounded, current, hallucination-resistant context.
@@ -21,28 +36,16 @@
 - 💬 **Conversational Automation** — Omnichannel assistants across chat, email & voice that resolve real user requests end to end.
 - 🧠 **Applied ML** — Production NLP, classification, recommendation, and fraud-detection models.
 
-### 🎯 What Sets Me Apart
+## 🎯 What sets me apart
 
 - ⚙️ **Production over demos** — I ship systems that survive real traffic: focused on latency, cost, reliability, and evaluation — not just notebooks.
 - 🪢 **Full-stack range** — Comfortable from research → backend → deployment; I own a feature end to end.
-- ⚡ **AI-native workflow** — I build *with* AI to build AI — leveraging Claude Code, Cursor & Antigravity to ship faster without losing rigor.
+- ⚡ **AI-native workflow** — I build *with* AI to build AI, shipping fast without losing rigor using **Claude Code**, **Cursor** & **Antigravity**.
 - 📈 **Outcome-driven** — Every system I build is judged by the value it delivers to real users, not the cleverness of the code.
 
-### 🧩 How I Work
+<!-- FEATURED PROJECTS — add your OWN projects here (not forks), reference-style. For each: name + repo/live link, 2-3 bullets on what it does and the hard part, and the tech. Give me the details and I'll format them. -->
 
-```text
-Agents        →  LangChain · LangGraph · deepagents · plan-act-reflect orchestration
-RAG / Memory  →  pgvector · FAISS · Pinecone · semantic search · embeddings · retrieval pipelines
-Voice AI      →  speech-to-speech · low-latency streaming · realtime conversational agents
-Comms         →  omnichannel automation · WebSockets · event-driven messaging
-LLMs          →  Anthropic · OpenAI · Gemini · prompt engineering · structured outputs · evals
-Backend       →  Python · FastAPI · Django · PostgreSQL · Redis · async APIs
-ML / Data     →  NLP · classification · recommendation · fraud detection
-```
-
----
-
-### 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 
@@ -118,7 +121,7 @@ ML / Data     →  NLP · classification · recommendation · fraud detection
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veerendravikas04&theme=tokyonight&hide_border=true" height="165"/>
@@ -130,11 +133,4 @@ ML / Data     →  NLP · classification · recommendation · fraud detection
 
 ---
 
-### 📫 Reach me
-
-<p>
-  <a href="mailto:vikasveerendra5410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/veerendra-rokkam-96b920256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>"Build for real users first."</i></p>
+<p align="center"><i>Still shipping. Build for real users first.</i></p>
